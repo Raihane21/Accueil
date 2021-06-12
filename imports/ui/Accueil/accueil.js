@@ -3,6 +3,7 @@ import { Template } from 'meteor/templating';
 import "./accueil.html";
 import "./accueil.css"; 
 import "./template.js";
+import "../Produits/produits.js"; 
 
 Session.set('menu', '');
 
